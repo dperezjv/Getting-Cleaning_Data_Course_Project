@@ -9,9 +9,10 @@ This repository is created for the Getting and Cleaning Data's Course Project. T
 
 This repository contains:
 
-    1. A R script called run_analisys.R 
-    2. A UCI HAR Dataset folder that contains the raw data.
-    3. The final tidy Data on tidyData.txt
+    1. A R script called run_analisys.R
+    2. The final tidy Data on tidyData.txt
+    3. CodeBook 
+    4. README
     
 
 ###How to work:
