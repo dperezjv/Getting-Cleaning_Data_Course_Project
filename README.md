@@ -11,7 +11,7 @@ This repository contains:
 
     1. A R script called run_analisys.R 
     2. A UCI HAR Dataset folder that contains the raw data.
-    3. The final tidy Data on step5.txt
+    3. The final tidy Data on tidyData.txt
     
 
 ###How to work:
